@@ -8,6 +8,6 @@ Please take the following steps to run the dashboards:
 ```streamlit run main.py```       
 
 
-The dashboard "association rules" needs to initially mine the global association rules. For this purpose please run the file association rule miner.py in the corresponding package.
+The dashboard "association rules" needs to initially mine the global association rules. For this purpose please run the file association-rule-miner.py in the corresponding package.
 
 For test purpose of different limitations and effects, the users 19 and 20 turned out to be useful.
