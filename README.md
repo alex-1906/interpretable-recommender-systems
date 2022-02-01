@@ -3,7 +3,7 @@
 Please take the following steps to run the dashboards:
 
 1. Clone the repository via SSH key or HTTP clone
-2. Install the required dependencies running the following command: {pip install -f requirements.txt}
+2. Install the required dependencies running the following command: ```{pip install -f requirements.txt}```
 3. Open terminal, navigate to the root folder of this repository and switch to the desired dashboard package e.g., cd content-based genres, run the application with the follwing command:
 streamlit run main.py
 
