@@ -12,3 +12,4 @@ Please take the following steps to run the dashboards:
 The dashboard "association rules" needs to initially mine the global association rules. For this purpose please run the file association-rule-miner.py in the corresponding package.
 
 For test purpose of different limitations and effects, the users 19 and 20 turned out to be useful.
+![picture alt](https://repository-images.githubusercontent.com/275336521/20d38e00-6634-11eb-9d1f-6a5232d0f84f "Title is optional")
